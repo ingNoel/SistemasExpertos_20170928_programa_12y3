@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using info.lundin.math;
 namespace SistemasExpertos_20170928_programa_1
 {
+    //propiedad de Noel
     public partial class Segundo : Form
     {
         bool bandera=true;
